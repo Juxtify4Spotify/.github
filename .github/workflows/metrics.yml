@@ -17,6 +17,8 @@ jobs:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
+          #  - public_repo
+          #  - read:project
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
@@ -25,7 +27,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: juxtify-spotify-redesign
+          user: Juxtify4Spotify
           template: classic
           base: header, activity, community, repositories, metadata
           config_octicon: yes
@@ -35,3 +37,5 @@ jobs:
           plugin_people_shuffle: yes
           plugin_people_size: 48
           plugin_people_types: members
+          plugin_projects: yes
+          plugin_projects_limit: 4
