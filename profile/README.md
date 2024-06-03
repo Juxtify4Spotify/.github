@@ -1,3 +1,3 @@
 <h1 align=center>🌟 Juxtify 🌟 - A remake of <a href="https://github.com/juxtopposed">Juxtopposed</a>'s <a href="https://www.youtube.com/watch?v=suhEIUapSJQ">Spotify UI Design<a/></h1>
 <div align=center>We are working to recreate the UI in <a href="https://github.com/juxtopposed">Juxtopposed</a>'s Spotify UI Design <a href="https://www.youtube.com/watch?v=suhEIUapSJQ">YouTube video<a/> and <a href="https://www.figma.com/community/file/1376999463181735262">Figma Design File<a/>.
-<img src=github-metrics.svg></div>
+<img src="/github-metrics.svg"><br><a href="https://discord.gg/yxQJjY9dxE"><img src="https://invidget.switchblade.xyz/yxQJjY9dxE"></a></div>
